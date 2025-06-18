@@ -6,7 +6,7 @@
 
         while (true)
         {
-            Console.Write("Digite o Nome do Aluno ou Enter para sair");
+            Console.Write("Digite o Nome do Aluno ou Enter para sair: ");
             string nome = Console.ReadLine();
 
             if (string.IsNullOrWhiteSpace(nome))

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Teste-btg")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+006c4572d89dd70996e80806d2cbf589d6752127")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5041a1d74d7cadf1486923ccf933a49d64716734")]
 [assembly: System.Reflection.AssemblyProductAttribute("Teste-btg")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Teste-btg")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
