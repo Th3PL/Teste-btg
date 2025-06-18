@@ -12,3 +12,4 @@
 /home/pedro/Teste-btg/obj/Debug/net8.0/Teste-btg.pdb
 /home/pedro/Teste-btg/obj/Debug/net8.0/Teste-btg.genruntimeconfig.cache
 /home/pedro/Teste-btg/obj/Debug/net8.0/ref/Teste-btg.dll
+/home/pedro/Teste-btg/obj/Debug/net8.0/Teste-btg.sourcelink.json

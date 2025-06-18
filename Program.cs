@@ -31,7 +31,16 @@
                 Nota3 = n3
             };
             alunos.Add(aluno);
+
+            Console.WriteLine("\n Alunos Cadastrados");
+            foreach (var a in alunos)
+            {
+                Console.WriteLine($"Nome: {a.Nome}, Média: {a.media():F2}");
+            }
+
+            Console.WriteLine();
         }
+        Console.WriteLine("Fim do Programa");
     }
 }
 
