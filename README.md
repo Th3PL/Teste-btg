@@ -1,5 +1,4 @@
 # 🧪 Teste Técnico - BTG Pactual
----
 
 Este projeto foi desenvolvido como parte de um teste técnico proposto pelo banco **BTG Pactual**.
 
