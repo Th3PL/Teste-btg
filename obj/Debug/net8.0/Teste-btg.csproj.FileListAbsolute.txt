@@ -1,0 +1,14 @@
+/home/pedro/Teste-btg/bin/Debug/net8.0/Teste-btg
+/home/pedro/Teste-btg/bin/Debug/net8.0/Teste-btg.deps.json
+/home/pedro/Teste-btg/bin/Debug/net8.0/Teste-btg.runtimeconfig.json
+/home/pedro/Teste-btg/bin/Debug/net8.0/Teste-btg.dll
+/home/pedro/Teste-btg/bin/Debug/net8.0/Teste-btg.pdb
+/home/pedro/Teste-btg/obj/Debug/net8.0/Teste-btg.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/Teste-btg/obj/Debug/net8.0/Teste-btg.AssemblyInfoInputs.cache
+/home/pedro/Teste-btg/obj/Debug/net8.0/Teste-btg.AssemblyInfo.cs
+/home/pedro/Teste-btg/obj/Debug/net8.0/Teste-btg.csproj.CoreCompileInputs.cache
+/home/pedro/Teste-btg/obj/Debug/net8.0/Teste-btg.dll
+/home/pedro/Teste-btg/obj/Debug/net8.0/refint/Teste-btg.dll
+/home/pedro/Teste-btg/obj/Debug/net8.0/Teste-btg.pdb
+/home/pedro/Teste-btg/obj/Debug/net8.0/Teste-btg.genruntimeconfig.cache
+/home/pedro/Teste-btg/obj/Debug/net8.0/ref/Teste-btg.dll
