@@ -1,4 +1,6 @@
-﻿public class Program
+﻿using System.Globalization;
+
+public class Program
 {
     public static void Main(string[] args)
     {
@@ -14,14 +16,10 @@
                 break;
             }
 
-            Console.Write("Digite a Primeira Nota: ");
-            double n1 = Convert.ToDouble(Console.ReadLine());
+            double n1 = lerNota("Nota 1: ");
+            double n2 = lerNota("Nota 2: ");
+            double n3 = lerNota("Nota 3: ");
 
-            Console.Write("Digite a Segunda Nota: ");
-            double n2 = Convert.ToDouble(Console.ReadLine());
-
-            Console.Write("Digite a Terceira Nota: ");
-            double n3 = Convert.ToDouble(Console.ReadLine());
 
             Aluno aluno = new Aluno
             {
@@ -41,6 +39,29 @@
             Console.WriteLine();
         }
         Console.WriteLine("Fim do Programa");
+    }
+
+    static double lerNota(String nota)
+    {
+        while (true)
+        {
+            try
+            {
+                Console.Write($"{nota} (0 a 10): ");
+                string notaEntrada = Console.ReadLine();
+                double n = Convert.ToDouble(notaEntrada);
+
+                if (n >= 0 && n <= 10)
+                {
+                    return n;
+                }
+                Console.WriteLine("Nota fora do intervalo. Digite um valor entre 0 e 10.");
+            }
+            catch
+            {
+                Console.WriteLine("Valor inválido.");
+            }
+        }
     }
 }
 
